@@ -10,7 +10,7 @@ let disponivel = azul;
 
 // Questão 3
 let preco = 100;
-let desconto = preco * 0.20; // 20% de desconto
+let desconto = preco * 0.20; 
 console.log("Desconto: R$" + desconto);
 
 
